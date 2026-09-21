@@ -12,12 +12,12 @@ def generate_launch_description():
         output='screen',
         composable_node_descriptions=[
             ComposableNode(
-                package='test_pkg',
+                package='ros_tutorials_rclcpp',
                 plugin='ServiceNode',
                 name='service_node',
             ),
             ComposableNode(
-                package='test_pkg',
+                package='ros_tutorials_rclcpp',
                 plugin='ClientNode',
                 name='client_node',
             ),

@@ -1,6 +1,6 @@
 #include "rclcpp/rclcpp.hpp"
 #include "turtlesim/msg/pose.hpp"
-#include "test_pkg/srv/average_vel.hpp"
+#include "ros_tutorials_rclcpp/srv/average_vel.hpp"
 
 class ClientNode : public rclcpp::Node
 {

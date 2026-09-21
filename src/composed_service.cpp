@@ -1,5 +1,5 @@
 #include "rclcpp/rclcpp.hpp"
-#include "test_pkg/srv/average_vel.hpp"
+#include "ros_tutorials_rclcpp/srv/average_vel.hpp"
 
 class ServiceNode : public rclcpp::Node
 {
