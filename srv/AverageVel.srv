@@ -1,0 +1,12 @@
+turtlesim/Pose pose
+
+float32 initial_lin_vel
+float32 initial_ang_vel
+
+float32 final_lin_vel
+float32 final_ang_vel
+
+float32 time_interval
+---
+float32 linear_acceleration
+float32 angular_acceleration
