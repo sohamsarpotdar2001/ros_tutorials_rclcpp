@@ -70,7 +70,7 @@ ros2 run ros_tutorials_rclcpp <executable_name>
 
 Launch a launch file with
 ```
-ros2 launch ros_tutorials_rclcpp <launch_file_name>.launch.py
+ros2 launch ros_tutorials_rclcpp <launch_file_name>
 ```
 
 ## Working with Servies
